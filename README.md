@@ -19,7 +19,7 @@ sudo ./install_from_github.sh
 ``` 
 
 ## Thanks
-I give you the thaks for visiting and maybe installin this tool.
+I give you the thaks for visiting and maybe install this tool.
 Also, I wonder it were usefull for you
 
 ## My networks
